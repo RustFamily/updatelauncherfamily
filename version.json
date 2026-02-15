@@ -1,4 +1,7 @@
 {
-  "version": "2.0.1",
-  "download": "https://www.rustfamily.com.br/"
+  "version": "2.0.2",
+  "download": "https://github.com/RustFamily/launcher/releases/download/v2.0.2/RustFamilyLauncher.exe",
+  "download_url": "https://github.com/RustFamily/launcher/releases/download/v2.0.2/RustFamilyLauncher.exe",
+  "changelog": "- Sistema de auto-update implementado\n- Melhorias de performance\n- Correções de bugs no anticheat",
+  "mandatory": false
 }
