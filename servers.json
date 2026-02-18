@@ -42,7 +42,7 @@
       "badgeColor": "#6723b0",
       "backgroundColor": "#FFF4E8",
       "maxPlayers": 100,
-      "enabled": false,
+      "enabled": true,
       "isNew": true
     }
   ],
