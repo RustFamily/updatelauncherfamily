@@ -34,10 +34,10 @@
     {
       "id": "main3",
       "name": "Vanilla",
-      "fullName": "Rust Family - Vanilla (em breve)",
+      "fullName": "Rust Family - Vanilla",
       "description": "Servidor vanilla clássico - Em breve",
-      "ip": "0.0.0.0",
-      "port": "0000",
+      "ip": "178.132.198.224",
+      "port": "28015",
       "icon": "🔥",
       "badgeColor": "#6723b0",
       "backgroundColor": "#FFF4E8",
