@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "lastUpdate": "2026-02-09T12:00:00Z",
-  "apiUrl": "http://45.39.210.159:3000",
+  "apiUrl": "https://api.rustfamily.com.br",
   "servers": [
     {
       "id": "main1",
