@@ -3,7 +3,7 @@
   "mandatory": true,
   "file_name": "Rust Family.exe",
   "download_url": "https://github.com/RustFamily/updatelauncherfamily/releases/latest/download/Rust%20Family.exe",
-  "sha256": "HASH_SHA256_REAL_EM_HEX",
+  "sha256": "94EFB0BEF1CA1DBECC98EAFA0CFA5D7ED79FA45635AAEF0D123631365A900D46",
   "published_at": "2026-04-10T15:00:00Z",
   "notes": "Atualização oficial do launcher Rust Family.",
   "channel": "stable"
