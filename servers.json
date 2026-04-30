@@ -29,15 +29,15 @@
       "backgroundColor": "#FFE8E8",
       "maxPlayers": 150,
       "enabled": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "main3",
       "name": "5x",
-      "fullName": "Rust Family - 5x",
+      "fullName": "Rust Family - 5x (Indisponível)",
       "description": "Servidor secundário com rate 5x",
-      "ip": "IP ",
-      "port": "Indisponível",
+      "ip": "Indisponível",
+      "port": "",
       "icon": "🔥",
       "badgeColor": "#6723b0",
       "backgroundColor": "#FFF4E8",
