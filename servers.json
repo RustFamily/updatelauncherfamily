@@ -19,31 +19,31 @@
     },
     {
       "id": "main2",
-      "name": "5x",
-      "fullName": "Rust Family - 5x",
-      "description": "Servidor secundário com rate 5x",
-      "ip": "connect.rustfamily.com.br",
-      "port": "28017",
-      "icon": "⚔️",
-      "badgeColor": "#6723b0",
-      "backgroundColor": "#FFE8E8",
-      "maxPlayers": 150,
-      "enabled": true,
-      "isNew": false
-    },
-    {
-      "id": "main3",
       "name": "Vanilla",
       "fullName": "Rust Family - Vanilla",
       "description": "Servidor vanilla clássico",
       "ip": "connect.rustfamily.com.br",
       "port": "28019",
+      "icon": "⚔️",
+      "badgeColor": "#6723b0",
+      "backgroundColor": "#FFE8E8",
+      "maxPlayers": 150,
+      "enabled": true,
+      "isNew": true
+    },
+    {
+      "id": "main3",
+      "name": "5x",
+      "fullName": "Rust Family - 5x",
+      "description": "Servidor secundário com rate 5x",
+      "ip": "connect.rustfamily.com.br",
+      "port": "28017",
       "icon": "🔥",
       "badgeColor": "#6723b0",
       "backgroundColor": "#FFF4E8",
       "maxPlayers": 100,
-      "enabled": true,
-      "isNew": true
+      "enabled": false,
+      "isNew": false
     }
   ],
   "messages": {
