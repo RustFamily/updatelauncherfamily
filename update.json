@@ -3,7 +3,7 @@
   "mandatory": true,
   "file_name": "Rust Family.exe",
   "download_url": "https://raw.githubusercontent.com/RustFamily/updatelauncherfamily/main/Rust%20Family.exe",
-  "sha256": "10D581E1EDFA86346C6CE2309BD6E6EB78E2C46B5E40D11BE8E5E3109E90E164",
+  "sha256": "c50e8638c6b3e54be7a8c088ee7602cf15630805dc4d81d979e7c1e346",
   "published_at": "2026-05-19T00:00:00.0000000Z",
   "notes": "Atualização oficial do launcher Rust Family 3.0.6.",
   "channel": "stable"
