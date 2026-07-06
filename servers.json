@@ -1,7 +1,12 @@
 {
-  "version": "2.0",
-  "lastUpdate": "2026-02-09T12:00:00Z",
-  "apiUrl": "https://api2.rustfamily.com.br",
+  "version": "2.1",
+  "lastUpdate": "2026-07-05T00:00:00Z",
+  "apiUrl": "https://api.rustfamily.com.br",
+  "apiFallbackUrl": "https://api2.rustfamily.com.br",
+  "emergencyMode": false,
+  "emergencyMessage": "Estamos passando por instabilidades temporárias na infraestrutura do Rust Family. O modo de emergência foi ativado para manter o acesso aos servidores oficiais. Durante esse período, podem ocorrer lentidão, falhas de conexão ou desconexões inesperadas. Jogue apenas em servidores oficiais do Rust Family e acompanhe os avisos da administração.",
+  "emergencyUpdatedAt": "2026-07-05T00:00:00Z",
+  "emergencyReason": "api_or_plugin_instability",
   "servers": [
     {
       "id": "main1",
@@ -10,11 +15,15 @@
       "description": "Servidor principal com rate 2x",
       "ip": "connect.rustfamily.com.br",
       "port": "28015",
+      "emergencyIp": "189.127.165.103",
+      "emergencyPort": "28015",
+      "queryPort": 28016,
       "icon": "🎮",
       "badgeColor": "#6723b0",
       "backgroundColor": "#F0E8FF",
       "maxPlayers": 200,
       "enabled": true,
+      "default": true,
       "isNew": false
     },
     {
@@ -24,11 +33,15 @@
       "description": "Servidor vanilla clássico",
       "ip": "connect.rustfamily.com.br",
       "port": "28019",
+      "emergencyIp": "189.127.165.103",
+      "emergencyPort": "28019",
+      "queryPort": 28020,
       "icon": "🔥",
       "badgeColor": "#6723b0",
       "backgroundColor": "#FFF4E8",
       "maxPlayers": 150,
       "enabled": true,
+      "default": false,
       "isNew": true
     },
     {
@@ -38,11 +51,15 @@
       "description": "Servidor de Treino",
       "ip": "connect.rustfamily.com.br",
       "port": "28017",
+      "emergencyIp": "189.127.165.103",
+      "emergencyPort": "28017",
+      "queryPort": 28018,
       "icon": "⚔️",
       "badgeColor": "#6723b0",
       "backgroundColor": "#FFE8E8",
       "maxPlayers": 100,
       "enabled": true,
+      "default": false,
       "isNew": true
     }
   ],
