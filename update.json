@@ -1,10 +1,10 @@
 {
-  "version": "3.0.8",
+  "version": "3.0.9",
   "mandatory": true,
   "file_name": "Rust Family.exe",
   "download_url": "https://raw.githubusercontent.com/RustFamily/updatelauncherfamily/main/Rust%20Family.exe",
-  "sha256": "019D2B46B9F3749F03F08E697F23FF9F9363BB7EE1A6450613EF0D5B2ACCA045",
-  "published_at": "2026-06-08T00:00:00.0000000Z",
-  "notes": "Atualização oficial do launcher Rust Family 3.0.8.",
+  "sha256": "EE3C8158160EA4CDEE32137694180C67256947624CC5A2EC00B88F02C599C9B4",
+  "published_at": "2026-06-07T00:00:00.0000000Z",
+  "notes": "Atualização oficial do launcher Rust Family 3.0.9.",
   "channel": "stable"
 }
