@@ -3,7 +3,7 @@
   "lastUpdate": "2026-07-05T00:00:00Z",
   "apiUrl": "https://api.rustfamily.com.br",
   "apiFallbackUrl": "https://api2.rustfamily.com.br",
-  "emergencyMode": true,
+  "emergencyMode": false,
   "emergencyMessage": "Estamos passando por instabilidades temporárias na infraestrutura do Rust Family. O modo de emergência foi ativado para manter o acesso aos servidores oficiais. Durante esse período, podem ocorrer lentidão, falhas de conexão ou desconexões inesperadas. Jogue apenas em servidores oficiais do Rust Family e acompanhe os avisos da administração.",
   "emergencyUpdatedAt": "2026-07-05T00:00:00Z",
   "emergencyReason": "api_or_plugin_instability",
