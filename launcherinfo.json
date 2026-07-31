@@ -29,8 +29,11 @@
   ],
   "announcement": {
     "enabled": true,
-    "revision": 1,
+    "revision": 2,
+    "type": "news",
     "title": "Novidades",
+    "summary": "A versão 3.0.13 do Launcher já está disponível.",
+    "details": "Confira as principais melhorias desta atualização.\n\n• Nova interface dos servidores\n• Status e jogadores em tempo real\n• Informações de wipe e latência",
     "message": "A versão 3.0.13 do Launcher já está disponível.",
     "severity": "info",
     "action_label": "",
