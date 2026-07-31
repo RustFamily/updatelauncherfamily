@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "revision": 1,
+  "servers": [
+    {
+      "id": "main1",
+      "display_name": "Rust Family - 2x",
+      "short_name": "MAIN 1",
+      "display_order": 1,
+      "tags": ["2X", "PVP", "KITS"],
+      "is_new": false
+    },
+    {
+      "id": "main2",
+      "display_name": "Rust Family - Vanilla",
+      "short_name": "MAIN 2",
+      "display_order": 2,
+      "tags": ["VANILLA", "PVP", "SEM KITS"],
+      "is_new": false
+    },
+    {
+      "id": "main3",
+      "display_name": "Rust Family - Treino",
+      "short_name": "MAIN 3",
+      "display_order": 3,
+      "tags": ["TREINO", "PVP", "RECOIL"],
+      "is_new": true
+    }
+  ],
+  "announcement": {
+    "enabled": true,
+    "revision": 1,
+    "title": "Novidades",
+    "message": "A versão 3.0.13 do Launcher já está disponível.",
+    "severity": "info",
+    "action_label": "",
+    "action_url": "",
+    "starts_at": null,
+    "expires_at": null
+  },
+  "links": {
+    "discord": "",
+    "website": "",
+    "vip": ""
+  }
+}
