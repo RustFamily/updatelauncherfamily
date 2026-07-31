@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 1,
+  "revision": 2,
   "servers": [
     {
       "id": "main1",
@@ -32,9 +32,9 @@
     "revision": 2,
     "type": "news",
     "title": "Novidades",
-    "summary": "A versão 3.0.13 do Launcher já está disponível.",
-    "details": "Confira as principais melhorias desta atualização.\n\n• Nova interface dos servidores\n• Status e jogadores em tempo real\n• Informações de wipe e latência",
-    "message": "A versão 3.0.13 do Launcher já está disponível.",
+    "summary": "A nova interface do Rust Family Launcher está disponível.",
+    "details": "Confira as novidades desta versão.\n\n• Interface mais limpa\n• Status dos servidores em tempo real\n• Jogadores, latência e wipe\n• Novo painel de notificações",
+    "message": "A nova interface do Rust Family Launcher está disponível.",
     "severity": "info",
     "action_label": "",
     "action_url": "",
@@ -42,8 +42,8 @@
     "expires_at": null
   },
   "links": {
-    "discord": "",
-    "website": "",
-    "vip": ""
+    "discord": "https://discord.gg/nfeF2rnYsx",
+    "website": "https://rustfamily.com.br/",
+    "vip": "https://www.rustfamily.com.br/produtos/2x"
   }
 }
