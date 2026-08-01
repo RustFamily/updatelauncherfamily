@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 2,
+  "revision": 3,
   "servers": [
     {
       "id": "main1",
@@ -29,12 +29,30 @@
   ],
   "announcement": {
     "enabled": true,
-    "revision": 2,
+    "id": "launcher-interface-3-0-14",
+    "revision": 3,
     "type": "news",
+
     "title": "Novidades",
     "summary": "A nova interface do Rust Family Launcher está disponível.",
-    "details": "Confira as novidades desta versão.\n\n• Interface mais limpa\n• Status dos servidores em tempo real\n• Jogadores, latência e wipe\n• Novo painel de notificações",
     "message": "A nova interface do Rust Family Launcher está disponível.",
+    "details": "Confira as novidades desta versão.\n\n• Interface mais limpa\n• Status dos servidores em tempo real\n• Jogadores, latência e wipe\n• Novo painel de notificações",
+
+    "title_pt": "Novidades",
+    "summary_pt": "A nova interface do Rust Family Launcher está disponível.",
+    "message_pt": "A nova interface do Rust Family Launcher está disponível.",
+    "details_pt": "Confira as novidades desta versão.\n\n• Interface mais limpa\n• Status dos servidores em tempo real\n• Jogadores, latência e wipe\n• Novo painel de notificações",
+
+    "title_en": "What's New",
+    "summary_en": "The new Rust Family Launcher interface is now available.",
+    "message_en": "The new Rust Family Launcher interface is now available.",
+    "details_en": "Check out what's new in this version.\n\n• Cleaner interface\n• Real-time server status\n• Player count, latency, and wipe information\n• New notifications panel",
+
+    "title_es": "Novedades",
+    "summary_es": "La nueva interfaz de Rust Family Launcher ya está disponible.",
+    "message_es": "La nueva interfaz de Rust Family Launcher ya está disponible.",
+    "details_es": "Descubre las novedades de esta versión.\n\n• Interfaz más limpia\n• Estado de los servidores en tiempo real\n• Jugadores, latencia y wipe\n• Nuevo panel de notificaciones",
+
     "severity": "info",
     "action_label": "",
     "action_url": "",
