@@ -51,7 +51,7 @@
 "title_es": "Actualización",
 "summary_es": "Mejoras en la jugabilidad, teletransporte, botín y chat.",
 "message_es": "Descubre las últimas mejoras.",
-"details_es": "• Raid Block y PvP Block eliminados del Vanilla\n• Raid Block del 2x ya no bloquea muros altos ni barricadas\n• Mejorado el botín del Patrol Helicopter en el 2x\n• Teletransporte bloqueado dentro de monumentos\n• Mensajes del chat estandarizados y mejorados\n• Corregido el filtro del chat\n• Nuevo filtro contra mensajes discriminatorios"
+"details_es": "• Raid Block y PvP Block eliminados del Vanilla\n• Raid Block del 2x ya no bloquea muros altos ni barricadas\n• Mejorado el botín del Patrol Helicopter en el 2x\n• Teletransporte bloqueado dentro de monumentos\n• Mensajes del chat estandarizados y mejorados\n• Corregido el filtro del chat\n• Nuevo filtro contra mensajes discriminatorios",
 
     "severity": "info",
     "action_label": "",
