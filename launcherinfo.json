@@ -30,7 +30,7 @@
   "announcement": {
     "enabled": true,
     "id": "launcher-interface-3-0-15",
-    "revision": 8,
+    "revision": 9,
     "type": "vip",
 
 "title": "Especial de Dia dos Pais",
@@ -41,7 +41,7 @@
 "title_pt": "Especial de Dia dos Pais",
 "summary_pt": "15% OFF em VIPs e itens da loja até 15/08.",
 "message_pt": "Use o cupom PAI durante a compra.",
-"details_pt": "• Desconto válido para VIPs e itens da loja\n• Cupom: PAI\n• Aproveite para garantir novos benefícios e fortalecer o servidor",
+"details_pt": "Desconto válido para VIPs e itens da loja\n• Cupom: PAI\n• Aproveite para garantir novos benefícios e fortalecer o servidor",
 
 "title_en": "Father's Day Special",
 "summary_en": "15% OFF VIP plans and store items until August 15.",
