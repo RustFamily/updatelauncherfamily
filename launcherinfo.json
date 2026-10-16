@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 3,
+  "revision": 4,
   "servers": [
     {
       "id": "main1",
@@ -33,25 +33,25 @@
     "revision": 10,
     "type": "vip",
 
-"title": "Especial de Setembro Amarelo",
-"summary": "12% OFF em todos os produtos da loja durante setembro.",
-"message": "Use o cupom AMARELO durante a compra.",
-"details": "Desconto válido em todos os produtos da loja\n• Cupom: AMARELO\n• Aproveite para garantir novos benefícios e fortalecer o servidor",
+"title": "Especial de Dia das Crianças",
+"summary": "10% OFF em todos os produtos da loja.",
+"message": "Use o cupom CRIANÇAS durante a compra.",
+"details": "O dia é das crianças, mas quem ganha é você! 💙\n• 10% OFF em toda a loja\n• Cupom: CRIANÇAS",
 
-"title_pt": "Especial de Setembro Amarelo",
-"summary_pt": "12% OFF em todos os produtos da loja durante setembro.",
-"message_pt": "Use o cupom AMARELO durante a compra.",
-"details_pt": "Desconto válido em todos os produtos da loja\n• Cupom: AMARELO\n• Aproveite para garantir novos benefícios e fortalecer o servidor",
+"title_pt": "Especial de Dia das Crianças",
+"summary_pt": "10% OFF em todos os produtos da loja.",
+"message_pt": "Use o cupom CRIANÇAS durante a compra.",
+"details_pt": "O dia é das crianças, mas quem ganha é você! 💙\n• 10% OFF em toda a loja\n• Cupom: CRIANÇAS",
 
-"title_en": "Yellow September Special",
-"summary_en": "12% OFF all store products throughout September.",
-"message_en": "Use the coupon AMARELO during checkout.",
-"details_en": "Valid for all products in the store\n• Coupon: AMARELO\n• Unlock new benefits while supporting the server",
+"title_en": "Children's Day Special",
+"summary_en": "10% OFF all products in the store.",
+"message_en": "Use coupon CRIANÇAS during checkout.",
+"details_en": "Children's Day is here, but you're the one who wins! 💙\n• 10% OFF the entire store\n• Coupon: CRIANÇAS",
 
-"title_es": "Especial de Septiembre Amarillo",
-"summary_es": "12% de descuento en todos los productos durante septiembre.",
-"message_es": "Usa el cupón AMARELO durante la compra.",
-"details_es": "Válido para todos los productos de la tienda\n• Cupón: AMARELO\n• Consigue nuevos beneficios y ayuda a fortalecer el servidor",
+"title_es": "Especial del Día del Niño",
+"summary_es": "10% de descuento en todos los productos.",
+"message_es": "Usa el cupón CRIANÇAS durante la compra.",
+"details_es": "¡El día es de los niños, pero quien gana eres tú! 💙\n• 10% de descuento en toda la tienda\n• Cupón: CRIANÇAS",
 
     "severity": "info",
     "action_label": "",
