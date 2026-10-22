@@ -3,7 +3,7 @@
   "mandatory": true,
   "file_name": "Rust Family.exe",
   "download_url": "https://raw.githubusercontent.com/RustFamily/updatelauncherfamily/main/Rust%20Family.exe",
-  "sha256": "fe17ae9ee255264dae79caa1e694d0d5f8ae9c2c96c60ae937808dc63b7b8b2c",
+  "sha256": "55dff2e7275e54ddb000678d9f967e3d1e72634b160dfe2b83a339f298c461d9",
   "published_at": "2026-21-10T00:00:00.0000000Z",
   "notes": "Atualização oficial do launcher Rust Family 3.0.25.",
   "channel": "stable"
